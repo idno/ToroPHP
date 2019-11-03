@@ -1,8 +1,8 @@
 {
-    "name": "torophp/torophp",
+    "name": "idno/torophp",
     "type": "library",
-    "version": "2.0.3",
-    "description": "Toro is a PHP router for developing RESTful web applications and APIs.",
+    "version": "3.0.0",
+    "description": "Known adoption of Toro, a PHP router for developing RESTful web applications and APIs.",
     "keywords": [
         "framework",
         "php",
