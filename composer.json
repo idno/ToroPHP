@@ -1,6 +1,7 @@
 {
     "name": "torophp/torophp",
     "type": "library",
+    "version": "1.0.0",
     "description": "Toro is a PHP router for developing RESTful web applications and APIs.",
     "keywords": [
         "framework",
