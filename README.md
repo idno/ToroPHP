@@ -1,4 +1,4 @@
-# Toro
+# Toro (ABANDONWARE ADOPTION)
 
 Toro is a PHP router for developing RESTful web applications and APIs. It is
 designed for minimalists who want to get work done.
